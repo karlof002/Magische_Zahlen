@@ -1,8 +1,4 @@
 ﻿/***********************************************************************************************
- * Übungsnr:        11                                     
- * Programmname:    MagicNumber
- * Autor:           Michael Bucek                            
- * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Für welche dreistellige Zahl gilt:    
  *   EinerZiffer³ + ZehnerZiffer³ + HunderterZiffer³ = zahl  (153, 370,371,407)
